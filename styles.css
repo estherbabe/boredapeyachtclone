@@ -1,0 +1,369 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+
+* {
+    box-sizing: border-box;
+  }
+
+
+body {
+    background-color: #000;
+    font-family: 'Montserrat', sans-serif; 
+}
+/* nav css */
+
+.logo-img {
+    width: 15rem;
+    height: auto;
+    margin-right: 90px;
+}
+
+.link {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 28px;
+    font-size: 11px;
+    font-style: italic;
+    text-align: end;
+}
+
+.link:hover{
+    color: #bfc500;
+}
+.socials {
+    margin-left: 16px;
+}
+
+.header-img {
+    width: 70rem;
+}
+
+/* box */
+.box1 {
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+}
+
+.box2 {
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ape images 1 to 8 */
+.ape-img {
+    width: 11rem;
+    padding-top: 15px;
+}
+
+/* welcome section, welcome section bottom text and top text */
+.bottom-text {
+    padding-top: 100px;
+}
+.bottom-text2 {
+    font-size: 13px;
+    font-style: italic;
+}
+
+.bottom-text h3 {
+    color: #bfc500;
+    font-style: italic;
+}
+
+.bottom-text h6 {
+    font-style: italic;
+    padding-bottom: 13px;
+}
+
+.top-text h1 {
+    font-style: italic;
+ padding-bottom: 5px;
+ font-weight: bold;
+}
+.welcome-section {
+    padding-top: 35px;
+}
+
+
+/* buy an ape section */
+.buy-an-ape {
+    margin-top: 30px;
+    background-color: #bfc500;
+    justify-content: center;
+    align-items: center;
+    height: 8rem;
+}
+
+.buy-ape-box {
+    padding-top:40px;
+}
+.buy-an-ape h3 {
+    text-align: center;
+    font-style: italic;
+    color: #000;
+    font-weight: bold;
+}
+
+.buy-an-ape button {
+    background-color: #000;
+    color: #bfc500;
+    border-radius: 0.5rem;
+    padding: 6% 3% 6% 3%;
+    text-align: center;
+    
+}
+   
+/*hr */
+hr {
+    border-bottom: 1px solid #d9d9d9;
+    margin-top: 50px;
+}
+
+/* spec divs */
+.box3 {
+    color:#fff;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.box3 a {
+color: #bfc500;
+}
+
+.box3 h2 {
+font-style: italic;
+margin-bottom: 1rem;
+font-weight: bold;
+}
+
+.spec-p1 {
+margin-bottom: 25px;
+}
+
+.spec-p2 {
+    margin-bottom: 25px;
+}
+
+.spec-p3 {
+    margin-bottom: 25px;
+}
+.spec-img {
+    width: 21rem;
+    margin-top: 30px;
+}
+
+
+/* welcome to the club */
+.club-welcome {
+    margin-top: 50px;
+    color: #fff;
+}
+
+.club-welcome h2 {
+    font-style: italic;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.club-welcome-list li {
+    list-style-type: none;
+    display: inline-block;
+    max-width: 180px;
+    margin-right: 33px;
+}
+
+.club-welcome-list img {
+    width: 7rem;
+    margin-bottom: 5px;
+}
+
+.club-welcome-list p {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+/*bathroom col*/
+
+.bathroom-col {
+    margin-top: 5%;
+    color: #fff;
+}
+
+.bathroom-col h3 {
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 3%;
+}
+
+.bathroom-col img {
+    width: 70%;
+    margin-left: 18%;
+}
+
+/*roadmap activities */
+
+.roadmap-col {
+    color: #fff;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.roadmap-col h3 {
+    font-style: italic;
+    font-weight: bold;
+}
+
+/* tshirt div */
+.tshirt-div {
+  height: 70%;
+}
+.tshirt-div img {
+ width: 100%;
+background-color: #bfc500;
+}
+
+.tshirt-div p {
+color: #bfc500;
+}
+
+.tshirt-div li {
+    list-style-type: none;
+}
+
+.tshirt-div span {
+    font-size: 13px;
+    color: #fff;
+    margin-left: 50px;
+    text-align: center;
+}
+
+
+/* community div */
+.community-div {
+    color: #fff;
+    margin-top: 50px;
+}
+
+.community-div h3 {
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.community-div li {
+    list-style-type: none;
+    justify-content: center;
+}
+
+
+.community-div button {
+    background-color: #bfc500;
+    color: #000;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.button-1 {
+    padding: 3% 25.5% 3% 25.5%;
+}
+
+.button-2 {
+    padding: 3% 20% 3% 20%;
+}
+
+/* the team div */
+.the-team-div {
+    color: #fff;
+    margin-top: 30px;
+
+}
+
+.the-team-div h3 {
+    font-style: italic;
+    font-weight: bold;
+margin-top: 15px;
+margin-bottom: 15px;
+}
+
+.the-team-div h6 {
+    font-style: italic;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+.the-team-div span {
+    font-style: normal;
+    color: #bfc500;
+}
+
+.team-link {
+    margin-top: 40px;
+    font-size: 17px;
+    text-align: center;
+}
+
+.team-link a {
+ color: #bfc500;
+}
+
+/* footer */
+.footer-img {
+    width: 12rem;
+    height: auto;
+    justify-content: center;
+}
+
+.footer-socials {
+    color: #fff;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.footer-socials li {
+    list-style-type: none;
+    font-size: 12px;
+}
+
+.footer-socials ul {
+    margin-top: 30px;
+}
+
+.footer-terms {
+    color: #bfc500;
+}
+
+.footer-terms:hover {
+    color: #fff;
+}
+
+
+.footer-end {
+    height: 15px;
+    background-color: #bfc500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
