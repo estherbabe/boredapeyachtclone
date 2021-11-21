@@ -226,7 +226,10 @@ background-color: #bfc500;
 }
 
 .tshirt-div p {
-color: #bfc500;
+    font-size: 13px;
+    color: #fff;
+    margin-left: 50px;
+    display: flex;
 }
 
 .tshirt-div li {
@@ -234,10 +237,7 @@ color: #bfc500;
 }
 
 .tshirt-div span {
-    font-size: 13px;
-    color: #fff;
-    margin-left: 50px;
-    text-align: center;
+    color: #bfc500;
 }
 
 
@@ -347,6 +347,10 @@ margin-bottom: 15px;
 }
 
 
+@media (max-width: 767.98px) { 
+   
+
+ }
 
 
 
