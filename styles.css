@@ -219,24 +219,23 @@ margin-bottom: 25px;
 /* tshirt div */
 .tshirt-div {
   height: 70%;
+  margin-top: 50px;
 }
 .tshirt-div img {
  width: 100%;
 background-color: #bfc500;
 }
 
-.tshirt-div p {
+.tshirt-text {
     font-size: 13px;
     color: #fff;
-    margin-left: 50px;
-    display: flex;
 }
 
 .tshirt-div li {
     list-style-type: none;
 }
 
-.tshirt-div span {
+.tshirt-div  {
     color: #bfc500;
 }
 
